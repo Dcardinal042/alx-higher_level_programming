@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+# Author - okoh ifeanyichukwu
+
+"""Print numbers 0 to 98 in decimal and hexadeciImal."""
+for number in range(0, 99):
+    print("{} = {}".format(number, hex(number)))
