@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 A module that contains the lookup function.
 """
